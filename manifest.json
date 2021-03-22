@@ -1,9 +1,7 @@
 {
- "background_color": "#FFFFFF",
  "name": "Hermosa Residencia - Villa Aurelia",
- "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
  "description": "3 Hab. Suite, 2 Plantas, 360.50 m² Terreno, 349 m² Construcción. Bella y Amplia.",
- "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +39,7 @@
    "src": "misc/icon64.png"
   }
  ],
+ "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
  "display": "fullscreen"
 }
